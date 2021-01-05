@@ -1,4 +1,4 @@
-module github.com/xxjwxc/gowp
+module github.com/Lucent-Labs/gowp
 
 go 1.13
 
